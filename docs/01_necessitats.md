@@ -64,7 +64,7 @@ Para escoger definitivamente entre las dos necesidades necesitaríamos conocer:
 * Qué posibilidades tiene nuestro equipo de aportar una solución.
 * Qué necesidad está más relacionada con las capacidades y conocimientos del grupo.
 
-## 5. Fuentes de información consultadas
+## 7. Fuentes de información consultadas
 
 * [Área Metropolitana de Barcelona - Programa Metropolitano de Calidad del Aire 2030.](https://www.amb.cat/es/web/medi-ambient/actualitat/publicacions/detall/-/publicacio/pmqa-2030/31598675/11818)
 * [Área Metropolitana de Barcelona - Información sobre movilidad, transporte y sostenibilidad.](https://www.amb.cat/s/es/web/mobilitat/mobilitat-sostenible.html)
