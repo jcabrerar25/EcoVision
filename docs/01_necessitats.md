@@ -6,7 +6,7 @@
 | :--- | :--- |
 | Estefany Sanchez | Coordinación general y redacción. |
 | Javier Nicolas Cabrera | Investigación de evidencias y fuentes. |
-| Diego Alejandro Arrana | Análisis de datos y revisión técnica. |
+| Diego Alejandro Arana | Análisis de datos y revisión técnica. |
 
 ## 2. Entorno analizado
 
