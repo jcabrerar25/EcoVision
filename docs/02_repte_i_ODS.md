@@ -1,13 +1,12 @@
-# 2. Definición del reto del proyecto
-##  Integrantes de equipo y Roles
+# Activitat 1.3 - Selecció de reptes i relació amb els ODS
+
+## 1. Integrantes de equipo y Roles
 
 | Nombre | Rol |
 | :--- | :--- |
 | Estefany Sanchez | Investigación de evidencias y fuentes. |
 | Diego Alejandro Arana | Redacción y revisión técnica. |
 ---
-
-
 ## 2.1. Evaluación de las necesidades finalistas
 
 Hemos seleccionado dos necesidades de la actividad anterior: la gestión de residuos electrónicos en el centro educativo y la movilidad insostenible en los desplazamientos al centro. Para decidir cuál será nuestro reto principal, hemos valorado ambas necesidades según los siete criterios de la actividad.
@@ -103,18 +102,6 @@ Estas actividades están relacionadas con la prolongación de la vida útil de l
 
 3. **Agència de Residus de Catalunya. Preguntas sobre los residuos de aparatos eléctricos y electrónicos.**  
    https://residus.gencat.cat/ca/ambits_dactuacio/tipus_de_residu/residus_daparells_electrics_i_electronics_raee/preguntes/
-
-
-
-# Activitat 1.3 - Selecció de reptes i relació amb els ODS
-
-## 1. Integrantes de equipo y Roles
-
-| Nombre | Rol |
-| :--- | :--- |
-| Estefany Sanchez | Investigación de evidencias y fuentes. |
-| Diego Alejandro Arana | Redacción y revisión técnica. |
----
 ## 3. Relación con los ODS (Parte 3)
 
 Para abordar nuestro reto enfocado en la reducción de residuos de envases de un solo uso en el centro educativo, hemos seleccionado dos ODS directamente vinculados y justificables:
