@@ -4,8 +4,8 @@
 
 | Nombre | Rol |
 | :--- | :--- |
-| Estefany Sánchez | Coordinación general y redacción. |
-| Diego Alejandro Arana | Análisis de datos y revisión técnica. |
+| Estefany Sánchez | Coordinación general y revisión técnica.  |
+| Diego Alejandro Arana | Análisis de datos y redacción. |
 ---
 ## 3. Relación con los ODS (Parte 3)
 
