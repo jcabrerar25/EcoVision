@@ -1,4 +1,4 @@
-# 2. Definición del reto del proyecto (trabajo grupal)
+# 2. Definición del reto del proyecto
 
 ## 2.1. Evaluación de las necesidades finalistas
 
