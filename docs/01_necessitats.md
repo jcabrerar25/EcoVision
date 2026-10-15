@@ -4,9 +4,8 @@
 
 | Nombre | Rol |
 | :--- | :--- |
-| Estefany Sanchez | Coordinación general y redacción. |
-| Javier Nicolas Cabrera | Investigación de evidencias y fuentes. |
-| Diego Alejandro Arana | Análisis de datos y revisión técnica. |
+| Estefany Sanchez | Investigación de evidencias y fuentes. |
+| Diego Alejandro Arana | Redacción y revisión técnica. |
 
 ## 2. Entorno analizado
 
