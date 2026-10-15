@@ -1,4 +1,12 @@
 # 2. Definición del reto del proyecto
+##  Integrantes de equipo y Roles
+
+| Nombre | Rol |
+| :--- | :--- |
+| Estefany Sanchez | Investigación de evidencias y fuentes. |
+| Diego Alejandro Arana | Redacción y revisión técnica. |
+---
+
 
 ## 2.1. Evaluación de las necesidades finalistas
 
