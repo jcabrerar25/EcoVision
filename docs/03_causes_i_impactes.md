@@ -1,4 +1,6 @@
 # Actividad 1.4 - Causas, impactos y vulnerabilidad
+**Proyecto:** EcoVision | **Grupo:** DAWBIO1 | **Fecha:** 15-10-2026
+
 
 ## 1. Integrantes del equipo y roles
 
@@ -86,8 +88,8 @@ flowchart TB
 
 - **Alumnado:** utiliza los espacios comunes durante el patio y puede contribuir a reducir los residuos mediante el uso de recipientes reutilizables.
 - **Profesorado y personal del centro:** pueden participar en las campañas de sensibilización y promover hábitos responsables.
-- **Personal de limpieza y mantenimiento:** puede verse afectado por el volumen de residuos que debe recoger y gestionar.
-- **Comunidad educativa en general:** puede beneficiarse de unos espacios más limpios y de una mayor concienciación ambiental.
+- **Personal de limpieza y mantenimiento:** se ve afectado por el volumen de residuos que debe recoger y gestionar.
+- **Comunidad educativa en general:** se beneficia de unos espacios más limpios y de una mayor concienciación ambiental.
 
 **Sectores productivos relacionados**
 
@@ -117,13 +119,16 @@ El proyecto se relaciona con la meta 13.3, centrada en mejorar la educación y l
 
 ### 2.8. Fuentes de información
 
-1. **Agencia de Residuos de Cataluña. Residuos de aparatos eléctricos y electrónicos (RAEE).** Esta fuente se consultó en la actividad anterior. Para este proyecto sobre envases deberá complementarse con información específica sobre residuos de envases.  
-   https://residus.gencat.cat/es/ambits_dactuacio/tipus_de_residu/residus_daparells_electrics_i_electronics_raee/
+1. **Agència de Residus de Catalunya. Residuos de envases.** Sustituye este enlace por la página concreta sobre envases.
+   https://residus.gencat.cat/
 
-2. **Naciones Unidas. Objetivo de Desarrollo Sostenible 12: Producción y consumo responsables.**  
+2. **Ecoembes. Datos sobre envases ligeros y reciclaje.** Añade el enlace de la página o el informe concreto que uséis.
+   https://www.ecoembes.com/
+
+3. **Naciones Unidas. Objetivo de Desarrollo Sostenible 12: Producción y consumo responsables.**
    https://www.un.org/sustainabledevelopment/es/sustainable-consumption-production/
 
-3. **Naciones Unidas. Objetivo de Desarrollo Sostenible 13: Acción por el clima.**  
+4. **Naciones Unidas. Objetivo de Desarrollo Sostenible 13: Acción por el clima.**
    https://www.un.org/sustainabledevelopment/es/climate-change-2/
 
-4. **Observación del centro educativo:** revisión inicial de los residuos de envases generados durante el patio. Esta fuente deberá completarse cuando el equipo realice la observación y registre los resultados.
+5. **Observación del centro educativo:** revisión de los envases generados durante el patio. Completar con los datos reales (fecha, número de envases contados por tipo).
