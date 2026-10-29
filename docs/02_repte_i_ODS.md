@@ -1,4 +1,4 @@
-# Activitat 1.3 - Selecció de reptes i relació amb els ODS
+# Activitat 1.4 - Selecció de reptes i relació amb els ODS
 
 ## 1. Integrantes de equipo y Roles
 
