@@ -46,41 +46,8 @@ Las consecuencias económicas y climáticas son efectos posibles que dependen de
 
 ### 2.4. Representación del árbol de problemas
 
-El siguiente código permite generar el árbol de problemas en un editor compatible con Mermaid:
+<img width="2698" height="2233" alt="arbol_problemas png" src="https://github.com/user-attachments/assets/ed08aae9-ab18-488f-a81a-cac83f52430e" />
 
-```mermaid
-flowchart TB
-    subgraph RAMAS["RAMAS: CONSECUENCIAS"]
-        C1["Ambiental directa: aumento de residuos"]
-        C2["Ambiental indirecta: mayor necesidad de gestión"]
-        C3["Social indirecta: hábitos poco sostenibles"]
-        C4["Económica indirecta: posibles costes de gestión"]
-        C5["Climática indirecta: emisiones asociadas a los envases"]
-    end
-
-    P["TRONCO: Generación de residuos de envases de un solo uso en el centro educativo, especialmente durante el patio"]
-
-    subgraph RAICES["RAÍCES: CAUSAS"]
-        R1["Directa: uso frecuente de envases desechables"]
-        R2["Directa: poco uso de alternativas reutilizables"]
-        R3["Directa: falta de información sobre los residuos"]
-        R4["Indirecta: hábitos de consumo poco sostenibles"]
-        R5["Indirecta: falta de seguimiento de los hábitos"]
-    end
-
-    C1 --> P
-    C2 --> P
-    C3 --> P
-    C4 --> P
-    C5 --> P
-
-    P --> R1
-    P --> R2
-    P --> R3
-    R4 --> R1
-    R4 --> R2
-    R5 --> R3
-```
 
 ### 2.5. Personas y sectores afectados
 
