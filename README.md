@@ -8,7 +8,7 @@
 
 | Nombre | Rol / Responsabilidad principal |
 | --- | --- |
-| **Estefany Sánchez** | **Investigación y Recaudación de Información:** Encargada de la recolección de evidencias, búsqueda de fuentes documentales, investigación de normativa ASG y análisis de necesidades. |
+| **Estefany Sanchez** | **Investigación y Recaudación de Información:** Encargada de la recolección de evidencias, búsqueda de fuentes documentales, investigación de normativa ASG y análisis de necesidades. |
 | **Diego Alejandro Arana** | **Gestión del Repositorio y Redacción Técnica:** Encargado de la estructura de archivos en GitHub, redacción y maquetación en Markdown, síntesis técnica y aseguramiento de la calidad. |
 
 ---
