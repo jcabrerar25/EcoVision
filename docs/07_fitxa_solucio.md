@@ -4,7 +4,7 @@
 **Grupo:** DAWBIO1 · INS Provençana  
 **Módulo:** 1708 - Sostenibilidad aplicada a los sectores productivos  
 **Curso:** 2026-2027  
-**Criterios de evaluación:** 1.b, 2.d, 2.e, 3.a y 3.c
+**Criterios de evaluación:** 1.f, 2.d, 2.e, 3.a y 3.c
 
 ---
 
@@ -20,6 +20,7 @@
 
 
 ### 1. Identificación del proyecto
+
 
 
 ### 2. Funcionamiento
@@ -73,7 +74,7 @@
 
 #### e. Evaluación de la prueba piloto
 
-## . Fuentes de información consultadas
+## Fuentes de información consultadas
 
 1. **INS Provençana. Escola Verda.** Información sobre el compromiso ambiental del centro educativo.  
    https://proven.cat/intraweb/index.php/76-linstitut
