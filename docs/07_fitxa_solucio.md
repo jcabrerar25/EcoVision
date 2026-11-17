@@ -24,17 +24,54 @@
 
 ### 2. Funcionamiento
 
+| Funcionalidad | ¿Qué permite hacer? | ¿A quién beneficia? | ¿Es imprescindible en la primera versión? |
+|---|---|---|---|
+| Registro de envases evitados | | | |
+| Visualización de resultados | | | |
+| Alternativas reutilizables | | | |
 
 
 ### 3. Sostenibilidad y viabilidad
 
+
+| Dimensión | Valoración |
+|---|---|
+| Ambiental | |
+| Social | |
+| Económica | |
+| Técnica | |
+
 ### 4. Relación con las prácticas anteriores
+
+| Elemento | Decisión del proyecto |
+|---|---|
+| ODS seleccionados y metas relacionadas | ODS 12 (12.5) y ODS 13 (13.3) |
+| Beneficios ambientales y sociales esperados | Reducción de residuos y sensibilización ambiental |
+| Riesgo ASG prioritario y medida preventiva | |
+| Indicadores para comprobar los resultados | |
+| Grupos de interés principales | |
+| Alianzas existentes o potenciales | |
+
 ### 5. Acciones a diferentes niveles
+
+
+#### I. Nivel personal:
+
+#### II. Nivel profesional o empresarial:
+
+#### III. Nivel institucional:
 
 ## Parte 2. Soporte al proyecto e inversión responsable
 
+#### a. Entidad que podría apoyar el proyecto
 
-### .
+#### b. Apoyo solicitado y justificación de la inversión
+
+#### c. Evidencias 
+
+#### d. Riesgos y costes
+
+#### e. Evaluación de la prueba piloto
 
 ## . Fuentes de información consultadas
 
@@ -60,8 +97,3 @@
    https://www.un.org/sustainabledevelopment/es/globalpartnerships/
 
 8. **Documentación interna del proyecto EcoVision.** Actividades 1.4, 1.5 y 1.7 elaboradas por el equipo DAWBIO1.
-
-**Conclusión del equipo**
-
-
-
