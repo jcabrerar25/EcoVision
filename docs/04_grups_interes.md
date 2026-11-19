@@ -12,6 +12,7 @@
 | :--- | :--- |
 | Estefany Sanchez | Investigación de evidencias y fuentes. |
 | Diego Alejandro Arana | Redacción y revisión técnica. |
+| Matheus Carchi | Análisis de impactos y relación con los ODS. |
 
 ---
 
