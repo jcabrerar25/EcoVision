@@ -11,10 +11,10 @@
 ## 1. Integrantes del equipo y roles
 
 | Nombre | Rol |
-|---|---|
-| Estefany Sanchez | Investigación de aspectos ambientales, sociales y de gobernanza, búsqueda de evidencias y fuentes de información. |
-| Diego Alejandro Arana | Redacción del análisis, elaboración y revisión técnica de la matriz de riesgos y oportunidades. |
-
+| :--- | :--- |
+| Estefany Sanchez | Investigación de evidencias y fuentes. |
+| Diego Alejandro Arana | Redacción y revisión técnica. |
+| Matheus Carchi | Análisis de impactos y relación con los ODS. |
 ## 2. Descripción del proyecto
 
 EcoVision es un proyecto que tiene como objetivo reducir los residuos de envases de un solo uso que se generan durante la hora del patio del INS Provençana, en L'Hospitalet de Llobregat.
