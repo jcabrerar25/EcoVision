@@ -11,10 +11,10 @@
 ## Integrantes del equipo y roles
 
 | Nombre | Rol |
-|---|---|
-| Estefany Sanchez | . |
-| Diego Alejandro Arana | . |
-| Matheus Carchi | . |
+| :--- | :--- |
+| Estefany Sanchez | Investigación de evidencias y fuentes. |
+| Diego Alejandro Arana | Redacción y revisión técnica. |
+| Matheus Carchi | Análisis de impactos y relación con los ODS. |
 
 ## Parte 3. Guion del vídeo
 
