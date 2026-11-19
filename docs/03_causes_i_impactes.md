@@ -5,9 +5,10 @@
 ## 1. Integrantes del equipo y roles
 
 | Nombre | Rol |
-|---|---|
-| Estefany Sanchez | Investigación de evidencias y fuentes de información. |
-| Diego Alejandro Arana | Redacción y revisión técnica del documento y del árbol de problemas. |
+| :--- | :--- |
+| Estefany Sanchez | Investigación de evidencias y fuentes. |
+| Diego Alejandro Arana | Redacción y revisión técnica. |
+| Matheus Carchi | Análisis de impactos y relación con los ODS. |
 
 ## 2. Árbol de problemas del proyecto
 
